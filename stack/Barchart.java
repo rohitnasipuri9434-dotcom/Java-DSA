@@ -1,3 +1,4 @@
+package stack;
 import java.util.Scanner;
 public class Barchart {
     public static void main (String[] args) {
